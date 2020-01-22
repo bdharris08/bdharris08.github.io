@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Harris</title>
+    <link>https://bdharris08.github.io/</link>
+    <description>Recent content on Ben Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://bdharris08.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://bdharris08.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdharris08.github.io/about/</guid>
+      <description>I am a Senior Software Engineer with over ten years of experience writing, debugging, and managing software systems at scale. From single-page applications to backend microservices, and from large-scale data ingestion to cloud infrastructure, my experience puts me in the perfect positions to help you solve your problems.
+As a native Texan, I was raised in a culture of hard work and accountability. After graduating from the University of Texas at Austin, I went on to learn systems, front end, and backend software from many talented coworkers at Freescale, HP, and IBM.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s make it happen</title>
+      <link>https://bdharris08.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdharris08.github.io/contact/</guid>
+      <description>Email me directly at Benh.dev at gmail Contact me today for:
+ Business process automation Professional website design and maintenance Golang microservices Cloud infrastructure and automation DevOps (system administration, deployment, automation) Single page web applications in Vue or React Smart Phone applications  </description>
+    </item>
+    
+  </channel>
+</rss>
