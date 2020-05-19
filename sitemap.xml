@@ -3,15 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bdharris08.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://bdharris08.github.io/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdharris08.github.io/categories/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/categories/development/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/tags/development/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/categories/front-end/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/posts/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/tags/recursion/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/posts/recursive-components/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/tags/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/tags/vue/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/posts/refactor-huge-node-file/</loc>
+    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/tags/node/</loc>
+    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/tags/refactor/</loc>
+    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdharris08.github.io/about/</loc>
   </url>
   
   <url>
@@ -20,10 +77,6 @@
   
   <url>
     <loc>https://bdharris08.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bdharris08.github.io/tags/</loc>
   </url>
   
 </urlset>
