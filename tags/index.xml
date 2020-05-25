@@ -6,17 +6,35 @@
     <description>Recent content in Tags on Ben Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bdharris08.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>databases</title>
+      <link>https://bdharris08.github.io/tags/databases/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdharris08.github.io/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>development</title>
       <link>https://bdharris08.github.io/tags/development/</link>
-      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bdharris08.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://bdharris08.github.io/tags/mysql/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdharris08.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
