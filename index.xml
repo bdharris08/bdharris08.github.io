@@ -6,17 +6,27 @@
     <description>Recent content on Ben Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bdharris08.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Pointers in Go Composite Literals</title>
+      <link>https://bdharris08.github.io/posts/go-pointer-literals/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdharris08.github.io/posts/go-pointer-literals/</guid>
+      <description>A neat trick to cleanly add pointers to composite literals Composite struct literals are one of my favorite parts of the look and feel of Go. They allow for excellent self-documenting test factories. Take the following example:
+type something struct { s string } func testSomething(t *testing.T) { type testCase struct { obj something expected int } cases := []testCase{ testCase{ obj: something{ s: &amp;#34;test123&amp;#34;, }, expected: 10, }, } for _, c := range cases { res, err := someFunc(c.</description>
+    </item>
+    
+    <item>
       <title>The better way to count(*)</title>
-      <link>https://bdharris08.github.io/posts/auth-go-aws/</link>
+      <link>https://bdharris08.github.io/posts/best-row-count/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bdharris08.github.io/posts/auth-go-aws/</guid>
+      <guid>https://bdharris08.github.io/posts/best-row-count/</guid>
       <description>The better way to count(*) Have you ever wanted to know the size of a table? Typically, if you&#39;re worried about how big it is, it&#39;s already huge. Why not just SELECT count(*) from huge_table? That may not be the best idea, especially if your table is larger than a few hundred thousand rows. Let&#39;s explore why that is the case in MySQL specifically.
 TLDR Use ANALYZE TABLE table_name; SELECT table_rows FROM INFORMATION_SCHEMA.</description>
     </item>

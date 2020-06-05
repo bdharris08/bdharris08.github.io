@@ -13,10 +13,10 @@
     
     <item>
       <title>The better way to count(*)</title>
-      <link>https://bdharris08.github.io/posts/auth-go-aws/</link>
+      <link>https://bdharris08.github.io/posts/best-row-count/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bdharris08.github.io/posts/auth-go-aws/</guid>
+      <guid>https://bdharris08.github.io/posts/best-row-count/</guid>
       <description>The better way to count(*) Have you ever wanted to know the size of a table? Typically, if you&#39;re worried about how big it is, it&#39;s already huge. Why not just SELECT count(*) from huge_table? That may not be the best idea, especially if your table is larger than a few hundred thousand rows. Let&#39;s explore why that is the case in MySQL specifically.
 TLDR Use ANALYZE TABLE table_name; SELECT table_rows FROM INFORMATION_SCHEMA.</description>
     </item>
